@@ -1,0 +1,10 @@
+Script started on 2015年03月16日 (週一) 22時27分39秒
+]0;F74006080@2015cpp: ~F74006080@2015cpp:~$ whoami;pwd
+F74006080
+/home/F74006080
+]0;F74006080@2015cpp: ~F74006080@2015cpp:~$ git config -l
+]0;F74006080@2015cpp: ~F74006080@2015cpp:~$ git clone https;[K://git[K[K[K[K[K[K[K[K[K[K[K[K https://github.com/ms0598759/lab1.git
+fatal: destination path 'lab1' already exists and is not an empty directory.
+]0;F74006080@2015cpp: ~F74006080@2015cpp:~$ exit
+
+Script done on 2015年03月16日 (週一) 22時29分59秒
